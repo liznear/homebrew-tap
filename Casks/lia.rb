@@ -9,10 +9,10 @@
 #   brew tap liznear/tap
 #   brew install --cask lia
 cask "lia" do
-  version "0.2.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.3.0"
+  sha256 "9f79cf65902bd7edd3960a2673d8f090bcbd4944a12460abd3dfa3a4fe04da8d"
 
-  url "https://github.com/liznear/lia/releases/download/v0.2.0/Lia_0.2.0_aarch64.dmg"
+  url "https://github.com/liznear/lia/releases/download/v0.3.0/Lia_0.3.0_aarch64.dmg"
   name "Lia"
   desc "Turn a learning goal into a linear journey of stages and lessons"
   homepage "https://github.com/liznear/lia"
