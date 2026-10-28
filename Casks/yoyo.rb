@@ -27,6 +27,7 @@ cask "yoyo" do
   app "YoYo.app"
 
   zap trash: [
+    "~/Library/Application Support/YoYo",
     "~/Library/Preferences/dev.yoyo.YoyoApp.plist",
     "~/Library/Saved Application State/dev.yoyo.YoyoApp.savedState",
   ]
