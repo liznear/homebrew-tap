@@ -7,10 +7,10 @@
 #   brew tap liznear/tap
 #   brew install --cask yoyo
 cask "yoyo" do
-  version "0.1.0"
-  sha256 "4dc5e37d21494edfb14c388022c6cc32aa17cee286b8fe89ccd76aef192706fb"
+  version "0.2.0"
+  sha256 "fd9b41d2cc3bb8dbd9cfe00ea92921640dfd77369a563cb3e71f9b318eded8e2"
 
-  url "https://github.com/liznear/homebrew-tap/releases/download/v0.1.0/YoYo_0.1.0_aarch64.dmg"
+  url "https://github.com/liznear/homebrew-tap/releases/download/v0.2.0/YoYo_0.2.0_aarch64.dmg"
   name "YoYo"
   desc "Personal agent system: durable collaboration server with a native macOS console"
   homepage "https://github.com/liznear/yoyo"
